@@ -1,8 +1,31 @@
 aid: faks
 name: Faks
-description: Faks is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Faks is a French SaaS platform that digitizes and streamlines the commercial
+  relationships across the pharmacy ecosystem. It gives pharmacies, pharmacy
+  groups (groupements), and laboratories a single place to manage supplier
+  relationships, commercial claims and disputes (litiges), expired and returnable
+  product handling, promotions, and sell-in / sell-out performance. Faks connects
+  to pharmacy management systems (LGO), purchasing platforms, and accounting tools
+  through its Konnect integrations to automate what has traditionally been manual,
+  paper, and email-driven work between the ~18,000 pharmacies, ~100 groups, and
+  ~500 laboratories it targets in France. The company is backed by Seedcamp. Faks
+  does not currently publish a public developer API, OpenAPI, or developer portal;
+  this profile captures its public identity and the enrichment surfaces that could
+  be probed.
 url: https://raw.githubusercontent.com/api-evangelist/faks/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/690dd3681ea7f690233bbae9/695bc91a2b2800a4edc69cde_Logo%20faks.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Pharmacy
+- Healthcare
+- Supplier Management
+- Pharma
+- SaaS
+- France
+- Procurement
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +52,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://faks.co
+  url: https://www.faks.co
+- type: Blog
+  url: https://www.faks.co/blog
+- type: Pricing
+  url: https://www.faks.co/tarifs
+- type: Login
+  url: https://web.faks.co/login/phone_number
+- type: TermsOfService
+  url: https://www.faks.co/conditions-generales-de-services
+- type: PrivacyPolicy
+  url: https://www.faks.co/politique-de-confidentialite
+- type: GitHubOrganization
+  url: https://github.com/faks-co
+- type: DomainSecurity
+  url: security/faks-domain-security.yml
+- type: LLMsTxt
+  url: llms/faks-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

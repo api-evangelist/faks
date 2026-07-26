@@ -1,0 +1,26 @@
+# Faks
+
+> Faks is a French SaaS platform that digitizes the commercial relationships across the pharmacy ecosystem — connecting pharmacies, pharmacy groups (groupements), and laboratories to manage suppliers, commercial claims and disputes (litiges), expired/returnable products, promotions, and sell-in/sell-out performance. Backed by Seedcamp. No public developer API is published at this time.
+
+## About
+- [Website](https://www.faks.co): Company home (French).
+- [About / A propos](https://www.faks.co/a-propos): Company mission and team.
+- [Integrations](https://www.faks.co/integration): Konnect connectors to LGO pharmacy systems, purchasing platforms, and accounting tools (Digipharmacie, Medipim, Boost, Winpharma, ID-LGPI, Ospharm, Santestat, Offisante).
+
+## Product
+- [Pricing / Tarifs](https://www.faks.co/tarifs): Plans and pricing.
+- [Demo](https://www.faks.co/demo): Request a product demo / contact sales.
+- [Login](https://web.faks.co/login/phone_number): Application sign-in.
+- [Blog](https://www.faks.co/blog): Company blog and updates.
+
+## Legal
+- [Terms of Service / CGS](https://www.faks.co/conditions-generales-de-services)
+- [Privacy Policy](https://www.faks.co/politique-de-confidentialite)
+- [Legal Notice / Mentions legales](https://www.faks.co/mentions-legales)
+
+## Code
+- [GitHub Organization](https://github.com/faks-co): Faks organization (no public repositories at this time).
+
+## Notes
+- No public API, OpenAPI, developer portal, SDK, MCP server, or webhook documentation is published as of this profile.
+- Integration is currently handled privately via Faks Konnect and direct partner arrangements.
